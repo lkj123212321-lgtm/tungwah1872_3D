@@ -1,0 +1,586 @@
+{
+  "format_version": "1.0",
+  "source_file": "tung-wah-archway-after1933",
+  "model_source": "sketchup",
+  "sketchup_version": "{27.0.0}",
+  "total_definitions": 1,
+  "total_meshes": 23,
+  "total_layers": 1,
+  "layers": [
+    {
+      "name": "Layer0",
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      }
+    }
+  ],
+  "layer_hidden": {
+    "Layer0": false
+  },
+  "materials": [
+    {
+      "name": "Ty_Red",
+      "color": {
+        "r": 154,
+        "g": 10,
+        "b": 5
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0
+    },
+    {
+      "name": "Ty_Gray2",
+      "color": {
+        "r": 32,
+        "g": 20,
+        "b": 19
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0
+    },
+    {
+      "name": "Ty_Skin",
+      "color": {
+        "r": 255,
+        "g": 178,
+        "b": 153
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0
+    },
+    {
+      "name": "Ty_Brown1",
+      "color": {
+        "r": 165,
+        "g": 99,
+        "b": 72
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0
+    },
+    {
+      "name": "Ty_Brown2",
+      "color": {
+        "r": 115,
+        "g": 43,
+        "b": 12
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0
+    },
+    {
+      "name": "Ty_Gray1",
+      "color": {
+        "r": 172,
+        "g": 172,
+        "b": 172
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0
+    },
+    {
+      "name": "Ty_Blue4",
+      "color": {
+        "r": 48,
+        "g": 62,
+        "b": 87
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0
+    },
+    {
+      "name": "Ty_Green",
+      "color": {
+        "r": 90,
+        "g": 122,
+        "b": 67
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0
+    },
+    {
+      "name": "Ty_Blue3",
+      "color": {
+        "r": 62,
+        "g": 87,
+        "b": 129
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0
+    },
+    {
+      "name": "Ty_Yellow",
+      "color": {
+        "r": 255,
+        "g": 213,
+        "b": 98
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0
+    },
+    {
+      "name": "Ty_Blue2",
+      "color": {
+        "r": 77,
+        "g": 111,
+        "b": 178
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0
+    },
+    {
+      "name": "Ty_Blue1",
+      "color": {
+        "r": 117,
+        "g": 131,
+        "b": 150
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0
+    },
+    {
+      "name": "Ty_Orange",
+      "color": {
+        "r": 219,
+        "g": 53,
+        "b": 0
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0
+    },
+    {
+      "name": "08fe8c24-0315-4258-b1d7-43f615071a7d",
+      "color": {
+        "r": 140,
+        "g": 134,
+        "b": 122
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0,
+      "texture": {
+        "filename": "/tmp/08fe8c24-0315-4258-b1d7-43f615071a7d.png",
+        "x_scale": 67.21479649635887,
+        "y_scale": 703.5148699952229
+      }
+    },
+    {
+      "name": "0042f688-8410-447e-9829-1dd452fbc59c",
+      "color": {
+        "r": 150,
+        "g": 144,
+        "b": 131
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0,
+      "texture": {
+        "filename": "/tmp/0042f688-8410-447e-9829-1dd452fbc59c.png",
+        "x_scale": 67.21479649635887,
+        "y_scale": 726.8576830420203
+      }
+    },
+    {
+      "name": "4cec131e-dbed-4463-90e4-91ee72739253",
+      "color": {
+        "r": 178,
+        "g": 173,
+        "b": 159
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0,
+      "texture": {
+        "filename": "/tmp/4cec131e-dbed-4463-90e4-91ee72739253.png",
+        "x_scale": 597.1875000000001,
+        "y_scale": 122.42343749999999
+      }
+    },
+    {
+      "name": "3fcec500-ecc3-4b8c-b6cc-1b3924876175",
+      "color": {
+        "r": 154,
+        "g": 155,
+        "b": 159
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0,
+      "texture": {
+        "filename": "/tmp/3fcec500-ecc3-4b8c-b6cc-1b3924876175.jpg",
+        "x_scale": 57.1325770219064,
+        "y_scale": 461.4135744245393
+      }
+    },
+    {
+      "name": "8080a169-c20f-4374-9b3a-5b73cea335f2",
+      "color": {
+        "r": 129,
+        "g": 127,
+        "b": 126
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0,
+      "texture": {
+        "filename": "/tmp/8080a169-c20f-4374-9b3a-5b73cea335f2.jpg",
+        "x_scale": 57.1325770219064,
+        "y_scale": 458.74098608766025
+      }
+    },
+    {
+      "name": "Layer_Layer0",
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0
+    }
+  ],
+  "mesh_index": {
+    "mesh_0_ROOT_Layer0_255_255_255_ds": {
+      "name": "ROOT",
+      "definition_name": "ROOT_MODEL",
+      "layer": "Layer0",
+      "position_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT"
+    },
+    "mesh_1_ROOT_Layer0_150_144_131_ss": {
+      "name": "ROOT",
+      "definition_name": "ROOT_MODEL",
+      "layer": "Layer0",
+      "position_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT"
+    },
+    "mesh_2_ROOT_Layer0_255_255_255_ss": {
+      "name": "ROOT",
+      "definition_name": "ROOT_MODEL",
+      "layer": "Layer0",
+      "position_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT"
+    },
+    "mesh_3_ROOT_Layer0_140_134_122_ss": {
+      "name": "ROOT",
+      "definition_name": "ROOT_MODEL",
+      "layer": "Layer0",
+      "position_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT"
+    },
+    "mesh_4_ROOT_Layer0_178_173_159_ss": {
+      "name": "ROOT",
+      "definition_name": "ROOT_MODEL",
+      "layer": "Layer0",
+      "position_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT"
+    },
+    "mesh_5_ROOT_Layer0_154_155_159_ss": {
+      "name": "ROOT",
+      "definition_name": "ROOT_MODEL",
+      "layer": "Layer0",
+      "position_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT"
+    },
+    "mesh_6_ROOT_Layer0_129_127_126_ss": {
+      "name": "ROOT",
+      "definition_name": "ROOT_MODEL",
+      "layer": "Layer0",
+      "position_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT"
+    },
+    "mesh_7_ROOT__Ty_Layer0_32_20_19_ds": {
+      "name": "Ty",
+      "definition_name": "Ty",
+      "layer": "Layer0",
+      "position_mm": [
+        1865.07,
+        -12708.89,
+        2040.92
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / Ty"
+    },
+    "mesh_8_ROOT__Ty_Layer0_255_178_153_ds": {
+      "name": "Ty",
+      "definition_name": "Ty",
+      "layer": "Layer0",
+      "position_mm": [
+        1865.07,
+        -12708.89,
+        2040.92
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / Ty"
+    },
+    "mesh_9_ROOT__Ty_Layer0_165_99_72_ds": {
+      "name": "Ty",
+      "definition_name": "Ty",
+      "layer": "Layer0",
+      "position_mm": [
+        1865.07,
+        -12708.89,
+        2040.92
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / Ty"
+    },
+    "mesh_10_ROOT__Ty_Layer0_115_43_12_ds": {
+      "name": "Ty",
+      "definition_name": "Ty",
+      "layer": "Layer0",
+      "position_mm": [
+        1865.07,
+        -12708.89,
+        2040.92
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / Ty"
+    },
+    "mesh_11_ROOT__Ty_Layer0_172_172_172_ds": {
+      "name": "Ty",
+      "definition_name": "Ty",
+      "layer": "Layer0",
+      "position_mm": [
+        1865.07,
+        -12708.89,
+        2040.92
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / Ty"
+    },
+    "mesh_12_ROOT__Ty_Layer0_48_62_87_ds": {
+      "name": "Ty",
+      "definition_name": "Ty",
+      "layer": "Layer0",
+      "position_mm": [
+        1865.07,
+        -12708.89,
+        2040.92
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / Ty"
+    },
+    "mesh_13_ROOT__Ty_Layer0_48_62_87_ss": {
+      "name": "Ty",
+      "definition_name": "Ty",
+      "layer": "Layer0",
+      "position_mm": [
+        1865.07,
+        -12708.89,
+        2040.92
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / Ty"
+    },
+    "mesh_14_ROOT__Ty_Layer0_255_255_255_ss": {
+      "name": "Ty",
+      "definition_name": "Ty",
+      "layer": "Layer0",
+      "position_mm": [
+        1865.07,
+        -12708.89,
+        2040.92
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / Ty"
+    },
+    "mesh_15_ROOT__Ty_Layer0_255_255_255_ds": {
+      "name": "Ty",
+      "definition_name": "Ty",
+      "layer": "Layer0",
+      "position_mm": [
+        1865.07,
+        -12708.89,
+        2040.92
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / Ty"
+    },
+    "mesh_16_ROOT__Ty_Layer0_90_122_67_ds": {
+      "name": "Ty",
+      "definition_name": "Ty",
+      "layer": "Layer0",
+      "position_mm": [
+        1865.07,
+        -12708.89,
+        2040.92
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / Ty"
+    },
+    "mesh_17_ROOT__Ty_Layer0_62_87_129_ds": {
+      "name": "Ty",
+      "definition_name": "Ty",
+      "layer": "Layer0",
+      "position_mm": [
+        1865.07,
+        -12708.89,
+        2040.92
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / Ty"
+    },
+    "mesh_18_ROOT__Ty_Layer0_255_213_98_ds": {
+      "name": "Ty",
+      "definition_name": "Ty",
+      "layer": "Layer0",
+      "position_mm": [
+        1865.07,
+        -12708.89,
+        2040.92
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / Ty"
+    },
+    "mesh_19_ROOT__Ty_Layer0_77_111_178_ds": {
+      "name": "Ty",
+      "definition_name": "Ty",
+      "layer": "Layer0",
+      "position_mm": [
+        1865.07,
+        -12708.89,
+        2040.92
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / Ty"
+    },
+    "mesh_20_ROOT__Ty_Layer0_117_131_150_ds": {
+      "name": "Ty",
+      "definition_name": "Ty",
+      "layer": "Layer0",
+      "position_mm": [
+        1865.07,
+        -12708.89,
+        2040.92
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / Ty"
+    },
+    "mesh_21_ROOT__Ty_Layer0_154_10_5_ds": {
+      "name": "Ty",
+      "definition_name": "Ty",
+      "layer": "Layer0",
+      "position_mm": [
+        1865.07,
+        -12708.89,
+        2040.92
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / Ty"
+    },
+    "mesh_22_ROOT__Ty_Layer0_219_53_0_ds": {
+      "name": "Ty",
+      "definition_name": "Ty",
+      "layer": "Layer0",
+      "position_mm": [
+        1865.07,
+        -12708.89,
+        2040.92
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / Ty"
+    }
+  },
+  "scene_hierarchy": {
+    "name": "ROOT",
+    "definition_name": "ROOT_MODEL",
+    "layer": "Layer0",
+    "position_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "properties": {},
+    "attribute_dictionaries": {},
+    "children": [
+      {
+        "name": "Ty",
+        "definition_name": "Ty",
+        "layer": "Layer0",
+        "position_mm": [
+          1865.07,
+          -12708.89,
+          2040.92
+        ],
+        "properties": {},
+        "attribute_dictionaries": {},
+        "children": []
+      }
+    ]
+  }
+}
