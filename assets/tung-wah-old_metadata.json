@@ -1,0 +1,1058 @@
+{
+  "format_version": "1.0",
+  "source_file": "tung-wah-old",
+  "model_source": "sketchup",
+  "sketchup_version": "{27.0.0}",
+  "total_definitions": 11,
+  "total_meshes": 40,
+  "total_layers": 1,
+  "layers": [
+    {
+      "name": "Layer0",
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      }
+    }
+  ],
+  "layer_hidden": {
+    "Layer0": false
+  },
+  "materials": [
+    {
+      "name": "Ty_Red",
+      "color": {
+        "r": 154,
+        "g": 10,
+        "b": 5
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0
+    },
+    {
+      "name": "Ty_Gray2",
+      "color": {
+        "r": 32,
+        "g": 20,
+        "b": 19
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0
+    },
+    {
+      "name": "Ty_Skin",
+      "color": {
+        "r": 255,
+        "g": 178,
+        "b": 153
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0
+    },
+    {
+      "name": "Ty_Brown1",
+      "color": {
+        "r": 165,
+        "g": 99,
+        "b": 72
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0
+    },
+    {
+      "name": "Ty_Brown2",
+      "color": {
+        "r": 115,
+        "g": 43,
+        "b": 12
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0
+    },
+    {
+      "name": "Ty_Gray1",
+      "color": {
+        "r": 172,
+        "g": 172,
+        "b": 172
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0
+    },
+    {
+      "name": "Ty_Blue4",
+      "color": {
+        "r": 48,
+        "g": 62,
+        "b": 87
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0
+    },
+    {
+      "name": "Ty_Green",
+      "color": {
+        "r": 90,
+        "g": 122,
+        "b": 67
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0
+    },
+    {
+      "name": "Ty_Blue3",
+      "color": {
+        "r": 62,
+        "g": 87,
+        "b": 129
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0
+    },
+    {
+      "name": "Ty_Yellow",
+      "color": {
+        "r": 255,
+        "g": 213,
+        "b": 98
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0
+    },
+    {
+      "name": "Ty_Blue2",
+      "color": {
+        "r": 77,
+        "g": 111,
+        "b": 178
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0
+    },
+    {
+      "name": "Ty_Blue1",
+      "color": {
+        "r": 117,
+        "g": 131,
+        "b": 150
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0
+    },
+    {
+      "name": "Ty_Orange",
+      "color": {
+        "r": 219,
+        "g": 53,
+        "b": 0
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0
+    },
+    {
+      "name": "[Beadboard]",
+      "color": {
+        "r": 218,
+        "g": 143,
+        "b": 90
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0,
+      "texture": {
+        "filename": "Beadboard.jpg",
+        "x_scale": 36.0,
+        "y_scale": 36.0
+      }
+    },
+    {
+      "name": "[Brick Tumbled]",
+      "color": {
+        "r": 135,
+        "g": 132,
+        "b": 132
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0,
+      "texture": {
+        "filename": "Brick_Tumbled.jpg",
+        "x_scale": 36.0,
+        "y_scale": 18.0
+      }
+    },
+    {
+      "name": "[Blacktop New]",
+      "color": {
+        "r": 30,
+        "g": 30,
+        "b": 30
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0,
+      "texture": {
+        "filename": "Blacktop New.jpg",
+        "x_scale": 120.0,
+        "y_scale": 120.0
+      }
+    },
+    {
+      "name": "[Wood Cherry Original]",
+      "color": {
+        "r": 119,
+        "g": 30,
+        "b": 21
+      },
+      "transparency": 1.0,
+      "colorized": true,
+      "colorize_type": 0,
+      "texture": {
+        "filename": "Wood_Cherry_Original.jpg",
+        "x_scale": 72.0,
+        "y_scale": 72.0
+      }
+    },
+    {
+      "name": "[Translucent Glass Tinted]",
+      "color": {
+        "r": 8,
+        "g": 201,
+        "b": 241
+      },
+      "transparency": 0.48,
+      "colorized": false,
+      "colorize_type": 0,
+      "texture": {
+        "filename": "Translucent_Glass_Tinted.jpg",
+        "x_scale": 24.0,
+        "y_scale": 24.0
+      }
+    },
+    {
+      "name": "[Metal Rough]",
+      "color": {
+        "r": 153,
+        "g": 157,
+        "b": 160
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0,
+      "texture": {
+        "filename": "Metal_Rough.jpg",
+        "x_scale": 8.0,
+        "y_scale": 8.0
+      }
+    },
+    {
+      "name": "[Roofing Tile Spanish]",
+      "color": {
+        "r": 138,
+        "g": 64,
+        "b": 36
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0,
+      "texture": {
+        "filename": "Roofing_Tile_Spanish.jpg",
+        "x_scale": 30.0,
+        "y_scale": 24.65517241379
+      }
+    },
+    {
+      "name": "Granite Light Gray",
+      "color": {
+        "r": 149,
+        "g": 148,
+        "b": 144
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0,
+      "texture": {
+        "filename": "Granite 02.jpg",
+        "x_scale": 12.0,
+        "y_scale": 12.0
+      }
+    },
+    {
+      "name": "圖像",
+      "color": {
+        "r": 224,
+        "g": 216,
+        "b": 209
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0,
+      "texture": {
+        "filename": "/tmp/8667f2ef-7061-4c0e-ad86-8d3492bdca35.jpeg",
+        "x_scale": 1600.0,
+        "y_scale": 1220.0
+      }
+    },
+    {
+      "name": "Layer_Layer0",
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "transparency": 1.0,
+      "colorized": false,
+      "colorize_type": 0
+    }
+  ],
+  "mesh_index": {
+    "mesh_0_ROOT_Layer0_255_255_255_ds": {
+      "name": "ROOT",
+      "definition_name": "ROOT_MODEL",
+      "layer": "Layer0",
+      "position_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT"
+    },
+    "mesh_1_ROOT_Layer0_138_64_36_ss": {
+      "name": "ROOT",
+      "definition_name": "ROOT_MODEL",
+      "layer": "Layer0",
+      "position_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT"
+    },
+    "mesh_2_ROOT_Layer0_255_255_255_ss": {
+      "name": "ROOT",
+      "definition_name": "ROOT_MODEL",
+      "layer": "Layer0",
+      "position_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT"
+    },
+    "mesh_3_ROOT_Layer0_135_132_132_ss": {
+      "name": "ROOT",
+      "definition_name": "ROOT_MODEL",
+      "layer": "Layer0",
+      "position_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT"
+    },
+    "mesh_4_ROOT_Layer0_30_30_30_ss": {
+      "name": "ROOT",
+      "definition_name": "ROOT_MODEL",
+      "layer": "Layer0",
+      "position_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT"
+    },
+    "mesh_5_ROOT__Ty_Layer0_32_20_19_ds": {
+      "name": "Ty",
+      "definition_name": "Ty",
+      "layer": "Layer0",
+      "position_mm": [
+        -4598.93,
+        -4006.7,
+        -85.68
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / Ty"
+    },
+    "mesh_6_ROOT__Ty_Layer0_255_178_153_ds": {
+      "name": "Ty",
+      "definition_name": "Ty",
+      "layer": "Layer0",
+      "position_mm": [
+        -4598.93,
+        -4006.7,
+        -85.68
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / Ty"
+    },
+    "mesh_7_ROOT__Ty_Layer0_165_99_72_ds": {
+      "name": "Ty",
+      "definition_name": "Ty",
+      "layer": "Layer0",
+      "position_mm": [
+        -4598.93,
+        -4006.7,
+        -85.68
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / Ty"
+    },
+    "mesh_8_ROOT__Ty_Layer0_115_43_12_ds": {
+      "name": "Ty",
+      "definition_name": "Ty",
+      "layer": "Layer0",
+      "position_mm": [
+        -4598.93,
+        -4006.7,
+        -85.68
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / Ty"
+    },
+    "mesh_9_ROOT__Ty_Layer0_172_172_172_ds": {
+      "name": "Ty",
+      "definition_name": "Ty",
+      "layer": "Layer0",
+      "position_mm": [
+        -4598.93,
+        -4006.7,
+        -85.68
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / Ty"
+    },
+    "mesh_10_ROOT__Ty_Layer0_48_62_87_ds": {
+      "name": "Ty",
+      "definition_name": "Ty",
+      "layer": "Layer0",
+      "position_mm": [
+        -4598.93,
+        -4006.7,
+        -85.68
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / Ty"
+    },
+    "mesh_11_ROOT__Ty_Layer0_48_62_87_ss": {
+      "name": "Ty",
+      "definition_name": "Ty",
+      "layer": "Layer0",
+      "position_mm": [
+        -4598.93,
+        -4006.7,
+        -85.68
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / Ty"
+    },
+    "mesh_12_ROOT__Ty_Layer0_255_255_255_ss": {
+      "name": "Ty",
+      "definition_name": "Ty",
+      "layer": "Layer0",
+      "position_mm": [
+        -4598.93,
+        -4006.7,
+        -85.68
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / Ty"
+    },
+    "mesh_13_ROOT__Ty_Layer0_255_255_255_ds": {
+      "name": "Ty",
+      "definition_name": "Ty",
+      "layer": "Layer0",
+      "position_mm": [
+        -4598.93,
+        -4006.7,
+        -85.68
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / Ty"
+    },
+    "mesh_14_ROOT__Ty_Layer0_90_122_67_ds": {
+      "name": "Ty",
+      "definition_name": "Ty",
+      "layer": "Layer0",
+      "position_mm": [
+        -4598.93,
+        -4006.7,
+        -85.68
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / Ty"
+    },
+    "mesh_15_ROOT__Ty_Layer0_62_87_129_ds": {
+      "name": "Ty",
+      "definition_name": "Ty",
+      "layer": "Layer0",
+      "position_mm": [
+        -4598.93,
+        -4006.7,
+        -85.68
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / Ty"
+    },
+    "mesh_16_ROOT__Ty_Layer0_255_213_98_ds": {
+      "name": "Ty",
+      "definition_name": "Ty",
+      "layer": "Layer0",
+      "position_mm": [
+        -4598.93,
+        -4006.7,
+        -85.68
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / Ty"
+    },
+    "mesh_17_ROOT__Ty_Layer0_77_111_178_ds": {
+      "name": "Ty",
+      "definition_name": "Ty",
+      "layer": "Layer0",
+      "position_mm": [
+        -4598.93,
+        -4006.7,
+        -85.68
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / Ty"
+    },
+    "mesh_18_ROOT__Ty_Layer0_117_131_150_ds": {
+      "name": "Ty",
+      "definition_name": "Ty",
+      "layer": "Layer0",
+      "position_mm": [
+        -4598.93,
+        -4006.7,
+        -85.68
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / Ty"
+    },
+    "mesh_19_ROOT__Ty_Layer0_154_10_5_ds": {
+      "name": "Ty",
+      "definition_name": "Ty",
+      "layer": "Layer0",
+      "position_mm": [
+        -4598.93,
+        -4006.7,
+        -85.68
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / Ty"
+    },
+    "mesh_20_ROOT__Ty_Layer0_219_53_0_ds": {
+      "name": "Ty",
+      "definition_name": "Ty",
+      "layer": "Layer0",
+      "position_mm": [
+        -4598.93,
+        -4006.7,
+        -85.68
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / Ty"
+    },
+    "mesh_21_ROOT__North_Sick_Ward_(2-storey_arcaded)_Layer0": {
+      "name": "North Sick Ward (2-storey arcaded)",
+      "definition_name": "North Sick Ward (2-storey arcaded)",
+      "layer": "Layer0",
+      "position_mm": [
+        79527.66,
+        24203.97,
+        0.0
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / North Sick Ward (2-storey arcaded)"
+    },
+    "mesh_22_ROOT__Front_Chin_Po_Layer0": {
+      "name": "Front Chin Po",
+      "definition_name": "Front Chin Po",
+      "layer": "Layer0",
+      "position_mm": [
+        56197.32,
+        22916.92,
+        0.0
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / Front Chin Po"
+    },
+    "mesh_23_ROOT__Main_Hall_&_Administrative_Rooms_Layer0": {
+      "name": "Main Hall & Administrative Rooms",
+      "definition_name": "Main Hall & Administrative Rooms",
+      "layer": "Layer0",
+      "position_mm": [
+        56197.32,
+        24897.0,
+        0.0
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / Main Hall & Administrative Rooms"
+    },
+    "mesh_24_ROOT__window__组#1_Layer0_119_30_21_ds": {
+      "name": "组#1",
+      "definition_name": "组#1",
+      "layer": "Layer0",
+      "position_mm": [
+        59400.5,
+        24897.0,
+        1895.75
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / window / 组#1"
+    },
+    "mesh_25_ROOT__window__组#1_Layer0_119_30_21_ss": {
+      "name": "组#1",
+      "definition_name": "组#1",
+      "layer": "Layer0",
+      "position_mm": [
+        59400.5,
+        24897.0,
+        1895.75
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / window / 组#1"
+    },
+    "mesh_26_ROOT__window__组#1_Layer0_255_255_255_ss": {
+      "name": "组#1",
+      "definition_name": "组#1",
+      "layer": "Layer0",
+      "position_mm": [
+        59400.5,
+        24897.0,
+        1895.75
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / window / 组#1"
+    },
+    "mesh_27_ROOT__window__组#1_Layer0_153_157_160_ss": {
+      "name": "组#1",
+      "definition_name": "组#1",
+      "layer": "Layer0",
+      "position_mm": [
+        59400.5,
+        24897.0,
+        1895.75
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / window / 组#1"
+    },
+    "mesh_28_ROOT__window__组#1_Layer0_8_201_241_ds": {
+      "name": "组#1",
+      "definition_name": "组#1",
+      "layer": "Layer0",
+      "position_mm": [
+        59400.5,
+        24897.0,
+        1895.75
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / window / 组#1"
+    },
+    "mesh_29_ROOT__window__组#1_Layer0_119_30_21_ds": {
+      "name": "组#1",
+      "definition_name": "组#1",
+      "layer": "Layer0",
+      "position_mm": [
+        60600.5,
+        24897.0,
+        1895.75
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / window / 组#1"
+    },
+    "mesh_30_ROOT__window__组#1_Layer0_119_30_21_ss": {
+      "name": "组#1",
+      "definition_name": "组#1",
+      "layer": "Layer0",
+      "position_mm": [
+        60600.5,
+        24897.0,
+        1895.75
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / window / 组#1"
+    },
+    "mesh_31_ROOT__window__组#1_Layer0_255_255_255_ss": {
+      "name": "组#1",
+      "definition_name": "组#1",
+      "layer": "Layer0",
+      "position_mm": [
+        60600.5,
+        24897.0,
+        1895.75
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / window / 组#1"
+    },
+    "mesh_32_ROOT__window__组#1_Layer0_153_157_160_ss": {
+      "name": "组#1",
+      "definition_name": "组#1",
+      "layer": "Layer0",
+      "position_mm": [
+        60600.5,
+        24897.0,
+        1895.75
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / window / 组#1"
+    },
+    "mesh_33_ROOT__window__组#1_Layer0_8_201_241_ds": {
+      "name": "组#1",
+      "definition_name": "组#1",
+      "layer": "Layer0",
+      "position_mm": [
+        60600.5,
+        24897.0,
+        1895.75
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / window / 组#1"
+    },
+    "mesh_34_ROOT__window__组#1_Layer0_119_30_21_ds": {
+      "name": "组#1",
+      "definition_name": "组#1",
+      "layer": "Layer0",
+      "position_mm": [
+        68419.5,
+        24897.0,
+        1895.75
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / window / 组#1"
+    },
+    "mesh_35_ROOT__window__组#1_Layer0_119_30_21_ss": {
+      "name": "组#1",
+      "definition_name": "组#1",
+      "layer": "Layer0",
+      "position_mm": [
+        68419.5,
+        24897.0,
+        1895.75
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / window / 组#1"
+    },
+    "mesh_36_ROOT__window__组#1_Layer0_255_255_255_ss": {
+      "name": "组#1",
+      "definition_name": "组#1",
+      "layer": "Layer0",
+      "position_mm": [
+        68419.5,
+        24897.0,
+        1895.75
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / window / 组#1"
+    },
+    "mesh_37_ROOT__window__组#1_Layer0_153_157_160_ss": {
+      "name": "组#1",
+      "definition_name": "组#1",
+      "layer": "Layer0",
+      "position_mm": [
+        68419.5,
+        24897.0,
+        1895.75
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / window / 组#1"
+    },
+    "mesh_38_ROOT__window__组#1_Layer0_8_201_241_ds": {
+      "name": "组#1",
+      "definition_name": "组#1",
+      "layer": "Layer0",
+      "position_mm": [
+        68419.5,
+        24897.0,
+        1895.75
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / window / 组#1"
+    },
+    "mesh_39_ROOT__建立群組__東華醫院floor_plan..jpeg_Layer0": {
+      "name": "東華醫院floor plan..jpeg",
+      "definition_name": "圖像",
+      "layer": "Layer0",
+      "position_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {},
+      "attribute_dictionaries": {},
+      "path": "ROOT / 建立群組 / 東華醫院floor plan..jpeg"
+    }
+  },
+  "scene_hierarchy": {
+    "name": "ROOT",
+    "definition_name": "ROOT_MODEL",
+    "layer": "Layer0",
+    "position_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "properties": {},
+    "attribute_dictionaries": {},
+    "children": [
+      {
+        "name": "Ty",
+        "definition_name": "Ty",
+        "layer": "Layer0",
+        "position_mm": [
+          -4598.93,
+          -4006.7,
+          -85.68
+        ],
+        "properties": {},
+        "attribute_dictionaries": {},
+        "children": []
+      },
+      {
+        "name": "Site Boundary 1873",
+        "definition_name": "Site Boundary 1873",
+        "layer": "Layer0",
+        "position_mm": [
+          3111.35,
+          5923.08,
+          0.0
+        ],
+        "properties": {},
+        "attribute_dictionaries": {},
+        "children": [
+          {
+            "name": "Hospital Compound 1873",
+            "definition_name": "Hospital Compound 1873",
+            "layer": "Layer0",
+            "position_mm": [
+              15431.81,
+              17957.98,
+              0.0
+            ],
+            "properties": {},
+            "attribute_dictionaries": {},
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Walls",
+        "definition_name": "Walls",
+        "layer": "Layer0",
+        "position_mm": [
+          15431.81,
+          17957.98,
+          0.0
+        ],
+        "properties": {},
+        "attribute_dictionaries": {},
+        "children": []
+      },
+      {
+        "name": "North Sick Ward (2-storey arcaded)",
+        "definition_name": "North Sick Ward (2-storey arcaded)",
+        "layer": "Layer0",
+        "position_mm": [
+          79527.66,
+          24203.97,
+          0.0
+        ],
+        "properties": {},
+        "attribute_dictionaries": {},
+        "children": []
+      },
+      {
+        "name": "Front Chin Po",
+        "definition_name": "Front Chin Po",
+        "layer": "Layer0",
+        "position_mm": [
+          56197.32,
+          22916.92,
+          0.0
+        ],
+        "properties": {},
+        "attribute_dictionaries": {},
+        "children": []
+      },
+      {
+        "name": "Main Hall & Administrative Rooms",
+        "definition_name": "Main Hall & Administrative Rooms",
+        "layer": "Layer0",
+        "position_mm": [
+          56197.32,
+          24897.0,
+          0.0
+        ],
+        "properties": {},
+        "attribute_dictionaries": {},
+        "children": []
+      },
+      {
+        "name": "window",
+        "definition_name": "window",
+        "layer": "Layer0",
+        "position_mm": [
+          59400.5,
+          24897.0,
+          1895.75
+        ],
+        "properties": {},
+        "attribute_dictionaries": {},
+        "children": [
+          {
+            "name": "组#1",
+            "definition_name": "组#1",
+            "layer": "Layer0",
+            "position_mm": [
+              59400.5,
+              24897.0,
+              1895.75
+            ],
+            "properties": {},
+            "attribute_dictionaries": {},
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "window",
+        "definition_name": "window",
+        "layer": "Layer0",
+        "position_mm": [
+          60600.5,
+          24897.0,
+          1895.75
+        ],
+        "properties": {},
+        "attribute_dictionaries": {},
+        "children": [
+          {
+            "name": "组#1",
+            "definition_name": "组#1",
+            "layer": "Layer0",
+            "position_mm": [
+              60600.5,
+              24897.0,
+              1895.75
+            ],
+            "properties": {},
+            "attribute_dictionaries": {},
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "window",
+        "definition_name": "window",
+        "layer": "Layer0",
+        "position_mm": [
+          68419.5,
+          24897.0,
+          1895.75
+        ],
+        "properties": {},
+        "attribute_dictionaries": {},
+        "children": [
+          {
+            "name": "组#1",
+            "definition_name": "组#1",
+            "layer": "Layer0",
+            "position_mm": [
+              68419.5,
+              24897.0,
+              1895.75
+            ],
+            "properties": {},
+            "attribute_dictionaries": {},
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "建立群組",
+        "definition_name": "建立群組",
+        "layer": "Layer0",
+        "position_mm": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "properties": {},
+        "attribute_dictionaries": {},
+        "children": [
+          {
+            "name": "東華醫院floor plan..jpeg",
+            "definition_name": "圖像",
+            "layer": "Layer0",
+            "position_mm": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "properties": {},
+            "attribute_dictionaries": {},
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}
